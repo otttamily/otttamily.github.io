@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="calendario.css" rel="stylesheet">
+</head>
+<body>
+    <table>
+        <thead>
+     <div>  
+        <tbody>
+            <tr>
+                <td colspan="8" class="jan">Janeiro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="fer">01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+            </tr>
+
+            <tr>
+                <th>08</th>
+                <th>09</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+            </tr>
+
+            <tr>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+            </tr>
+
+            <tr>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+            </tr>
+
+            <tr>
+                <th>29</th>
+                <th>30</th>
+                <th>31</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+                <th class="prox">04</th>
+            </tr>
+
+        </tbody>
+     </div>
+
+     <div>
+        <tbody>
+            <td colspan="8" class="jan">Fevereiro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+            </tr>
+
+            <tr>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+                <th>08</th>
+                <th>09</th>
+                <th>10</th>
+                <th>11</th>
+            </tr>
+
+            <tr>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+            </tr>
+
+            <tr>
+                <th>19</th>
+                <th class="fer">20</th>
+                <th class="fer">21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+            </tr>
+
+            <tr>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+                <th class="prox">04</th>
+            </tr>
+        </tbody>
+    </div>   
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Março</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">26</th>
+                <th class="prox">27</th>
+                <th class="prox">28</th>
+                <th class="fer2">01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+            </tr>
+
+            <tr>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+                <th>08</th>
+                <th class="fer">09</th>
+                <th class="fer">10</th>
+                <th class="fer">11</th>
+            </tr>
+
+            <tr>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+            </tr>
+
+            <tr>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+            </tr>
+
+            <tr>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+                <th>31</th>
+                <th class="prox">01</th>
+            </tr>
+        </tbody>
+
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Abril</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">26</th>
+                <th class="prox">27</th>
+                <th class="prox">28</th>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+            </tr>
+
+            <tr>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th class="fer">07</th>
+                <th class="fer">08</th>
+            </tr>
+
+            <tr>
+                <th class="fer">09</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th class="fer">15</th>
+            </tr>
+
+            <tr>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th class="fer">21</th>
+                <th class="fer">22</th>
+            </tr>
+
+            <tr>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+            </tr>
+
+            <tr>
+                <th>30</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+                <th class="prox">04</th>
+                <th class="prox">05</th>
+                <th class="prox">06</th>
+            </tr>
+        </tbody>
+
+       
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Maio</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">30</th>
+                <th class="fer">01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+            </tr>
+
+            <tr>
+                <th>07</th>
+                <th>08</th>
+                <th>09</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+            </tr>
+
+            <tr>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+            </tr>
+
+            <tr>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+            </tr>
+
+            <tr>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+                <th>31</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Junho</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">28</th>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+                <th>02</th>
+                <th>03</th>
+            </tr>
+
+            <tr>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+                <th class="fer">08</th>
+                <th class="fer">09</th>
+                <th class="fer">10</th>
+            </tr>
+
+            <tr>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+            </tr>
+
+            <tr>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+            </tr>
+
+            <tr>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+                <th class="prox">01</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Julho</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">25</th>
+                <th class="prox">26</th>
+                <th class="prox">27</th>
+                <th class="prox">28</th>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th>01</th>
+            </tr>
+
+            <tr>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+                <th>08</th>
+            </tr>
+
+            <tr>
+                <th>09</th>
+                <th class="rep">10</th>
+                <th class="rep">11</th>
+                <th class="rep">12</th>
+                <th class="rep">13</th>
+                <th class="rep">14</th>
+                <th class="rep">15</th>
+            </tr>
+
+            <tr>
+                <th>16</th>
+                <th class="ex">17</th>
+                <th class="ex">18</th>
+                <th class="ex">19</th>
+                <th class="ex">20</th>
+                <th class="ex">21</th>
+                <th class="ex">22</th>
+            </tr>
+
+            <tr>
+                <th class="rec">23</th>
+                <th class="rec">24</th>
+                <th class="rec">25</th>
+                <th class="rec">26</th>
+                <th class="rec">27</th>
+                <th class="rec">28</th>
+                <th class="rec">29</th>
+            </tr>
+
+            <tr>
+                <td>30</td>
+                <td class="fer2">31</td>
+                <td class="prox">01</td>
+                <td class="prox">02</td>
+                <td class="prox">03</td>
+                <td class="prox">04</td>
+                <td class="prox">05</td>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Agosto</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+            </tr>
+
+            <tr>
+                <th>06</th>
+                <th>07</th>
+                <th>08</th>
+                <th>09</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+            </tr>
+
+            <tr>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+            </tr>
+
+            <tr>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+            </tr>
+
+            <tr>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+                <th>31</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Setembro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">27</th>
+                <th class="prox">28</th>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+                <th>02</th>
+            </tr>
+
+            <tr>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th class="fer">07</th>
+                <th class="fer">08</th>
+                <th class="fer">09</th>
+            </tr>
+
+            <tr>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th>15</th>
+                <th>16</th>
+            </tr>
+
+            <tr>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th class="fer">23</th>
+            </tr>
+
+            <tr>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>27</th>
+                <th>29</th>
+                <th>30</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Outubro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th>01</th>
+                <th>02</th>
+                <th>03</th>
+                <th>04</th>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+            </tr>
+
+            <tr>
+                <th>08</th>
+                <th>09</th>
+                <th>10</th>
+                <th>11</th>
+                <th class="fer">12</th>
+                <th>13</th>
+                <th>14</th>
+            </tr>
+
+            <tr>
+                <th class="fer">15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+            </tr>
+
+            <tr>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+            </tr>
+
+            <tr>
+                <th>29</th>
+                <th>30</th>
+                <th>31</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+                <th class="prox">04</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Novembro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th class="prox">31</th>
+                <th>01</th>
+                <th class="fer">02</th>
+                <th>03</th>
+                <th>04</th>
+            </tr>
+
+            <tr>
+                <th>05</th>
+                <th>06</th>
+                <th>07</th>
+                <th>08</th>
+                <th>19</th>
+                <th>10</th>
+                <th>11</th>
+            </tr>
+
+            <tr>
+                <th>12</th>
+                <th>13</th>
+                <th>14</th>
+                <th class="fer">15</th>
+                <th>16</th>
+                <th>17</th>
+                <th>18</th>
+            </tr>
+
+            <tr>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+                <th>24</th>
+                <th>25</th>
+            </tr>
+
+            <tr>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+            </tr>
+        </tbody>
+    </div>
+
+    <div>
+        <tbody>
+            <td colspan="8" class="jan">Dezembro</td>
+                
+            </tr>
+
+            <tr>
+                <td class="find">dom</td>
+                <td class="find">seg</td>
+                <td class="find">ter</td>
+                <td class="find">qua</td>
+                <td class="find">qui</td>
+                <td class="find">sex</td>
+                <td class="find">sab</td>
+            </tr>
+
+            <tr>
+                <th class="prox">26</th>
+                <th class="prox">27</th>
+                <th class="prox">28</th>
+                <th class="prox">29</th>
+                <th class="prox">30</th>
+                <th>01</th>
+                <th>02</th>
+            </tr>
+
+            <tr>
+                <th>03</th>
+                <th class="rep">04</th>
+                <th class="rep">05</th>
+                <th class="rep">06</th>
+                <th class="rep">07</th>
+                <th class="rep">08</th>
+                <th class="rep">09</th>
+            </tr>
+
+            <tr>
+                <th>10</th>
+                <th class="ex">11</th>
+                <th class="ex">12</th>
+                <th class="ex">13</th>
+                <th class="ex">14</th>
+                <th class="ex">15</th>
+                <th class="ex">16</th>
+            </tr>
+
+            <tr>
+                <th>17</th>
+                <th>18</th>
+                <th>19</th>
+                <th>20</th>
+                <th>21</th>
+                <th>22</th>
+                <th>23</th>
+            </tr>
+
+            <tr>
+                <th>24</th>
+                <th>25</th>
+                <th>26</th>
+                <th>27</th>
+                <th>28</th>
+                <th>29</th>
+                <th>30</th>
+            </tr>
+
+            <tr>
+                <th>31</th>
+                <th class="prox">01</th>
+                <th class="prox">02</th>
+                <th class="prox">03</th>
+                <th class="prox">04</th>
+                <th class="prox">05</th>
+                <th class="prox">06</th>
+            </tr>
+        </tbody>
+    </div>
+
+table, th, td{
+    border: 1px solid black; 
+    border-collapse: collapse;
+    background-color: #d8dfe7;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+.jan{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: #40698d;
+    color: white;
+}
+
+.feriados{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #d8dfe7;
+}
+
+.fer{
+    background-color: #8198b2;
+    color: white;
+}
+
+.fer2{
+    background-color: #556373;
+    color: white;
+}
+
+.prox{
+    color: #9e9ea2;
+}
+
+.find{
+    background-color: #7b9bc3;
+    color: white;
+}
+
+.rec{
+    background-color: #8fbcef;
+    color: white;
+}
+
+.ex{
+    background-color: #a3c7f2;
+    color: white;
+}
+
+.rep{
+    background-color: #b4e0ff;
+    color: white;
+}
+
+        </thead>
+    </table>
+</body>
+</html>
