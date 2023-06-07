@@ -1,0 +1,429 @@
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,  
+    'opsz' 48
+  }
+  
+  .cabe1 {
+      background-color: rgb(243, 242, 242);
+      width: 200px;
+      height: 1000px;
+  }
+  
+  .Icones {
+      display: flex;
+      margin: 10px;
+      flex-direction: row;
+      align-items: center;
+  }
+  
+  .perfil {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .perfil p {
+    margin-right: 45px;
+    font-size: 12px;
+    display: flex;
+  }
+
+p {
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 10px;
+      margin-right: 80px;
+      width: 40px;
+  }
+
+  .Icones p {
+    font-weight: bold;
+    color: gray;
+    font-size: small;
+  }
+  
+  .img1 {
+      border-radius: 200%;
+      width: 50px;
+      height: 50px;
+      margin: 10px;
+    }
+  
+  .logo{
+      display: flex;
+      margin: 10px;
+      flex-direction: row;
+      align-items: center;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .seta {
+      padding: 60px;
+ }
+
+  .corpo {
+    display: flex;
+  }
+
+.cab2itens {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+}
+
+.view span {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.view h2 {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    position: absolute;
+    left: 1650px;
+  }
+
+.cab2itens h1 {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: row;
+    display: flex;
+    margin: 10px;
+  }
+
+.cab2 {
+  flex-direction: row;
+  padding-bottom: -1px;
+  width: 100%;
+}
+
+.view {
+      display: flex;
+      margin: 10px;
+      flex-direction: auto;
+      align-items: center;
+      justify-content: end;
+}
+
+.azul{
+  background: #3897ff;
+  width: 98%;
+  height: 8%;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.azul2{
+  background-color: black;
+  border-radius: 40px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25px;
+  margin-top: 10px;
+  position: absolute;
+  top: 90px;
+}
+
+.azul span {
+  color: white;
+}
+
+.quadro1 {
+  background: rgb(237, 240, 245);
+  width: 350px;
+  height: 190px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: auto;
+  position: absolute;
+  top: 200px;
+  left: 230px;
+}
+
+.quadro1 span {
+  display: flex;
+  margin: 10px;
+  flex-direction: row;
+  background-color: rgb(207, 206, 206);
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+}
+
+.quadro1 p {
+  font-size: 20px;
+}
+
+.delivery {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+}
+
+.delivery p {
+font-size: 25px;
+}
+
+.quadro1 .proc {
+  font-size: 25px;
+}
+
+.infoquadro {
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 20px;
+left: 25px;
+align-items: center;
+}
+
+.infoquadro2 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: 20px;
+  left: 210px;
+  align-items: center;
+}
+
+.get{
+  display: flex;
+  color: black;
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+  bottom: 795px;
+  right: 70px;
+  border-radius: 5px;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.infoQ2{
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 10px;
+left: 10px;
+align-items: center;
+font-size: small;
+}
+
+.texto {
+  border-radius: 20px;
+  position: absolute;
+  left: 40px;
+  margin: 20px;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.texto p{
+  height: 4px;
+  width: 600px;
+  bottom: 10px;
+  color: white;
+}
+
+.quadro2{
+  background: rgb(237, 240, 245);
+  width: 350px;
+  height: 190px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: auto;
+  position: absolute;
+  top: 200px;
+  left: 640px;
+}
+
+.quadro2 span {
+  display: flex;
+  margin: 10px;
+  flex-direction: row;
+  background-color: rgb(207, 206, 206);
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+}
+
+.payments {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+}
+
+.quadro2 p {
+    font-size: 20px;
+  }
+
+.infoq2{
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 25px;
+left: 20px;
+align-items: center;
+}
+
+.infoqr2{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: 25px;
+  left: 230px;
+  align-items: center;
+}
+
+.quadro3{
+  background: rgb(237, 240, 245);
+  width: 350px;
+  height: 190px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: auto;
+  position: absolute;
+  top: 200px;
+  left: 1050px;
+}
+
+.quadro3 p {
+    font-size: 20px;
+  }
+
+.quadro3 span {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    background-color: rgb(207, 206, 206);
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+}
+
+.infoq3{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: 25px;
+  left: 20px;
+  align-items: center;
+ }
+
+.infoqr3{
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 25px;
+left: 230px;
+align-items: center;
+}
+
+.quadro4{
+  background: rgb(237, 240, 245);
+  width: 350px;
+  height: 190px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: auto;
+  position: absolute;
+  top: 200px;
+  left: 1460px;
+}
+
+.quadro4 span {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    background-color: rgb(207, 206, 206);
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+}
+
+.Response {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+}
+
+.quadro4 p {
+    font-size: 20px;
+  }
+  
+.infoq4 {
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 25px;
+left: 20px;
+align-items: center;
+    }
+    
+.infoqr4 {
+position: absolute;
+display: flex;
+flex-direction: column;
+bottom: 25px;
+left: 230px;
+align-items: center;
+    }
+    
+  .not{
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 10px;
+      margin-right: 20px;
+      width: 120px;
+  }
+
+  .product{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 20px;
+    width: 120px;
+  }
+
+.teste{
+    background: rgb(207, 206, 206);
+    width: 85.5%;
+    height: 450px;
+    display: flex;
+    position: absolute;
+    left: 230px;
+    bottom: 100px;
+    padding: 1px;
+}
